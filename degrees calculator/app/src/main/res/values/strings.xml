@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">home work1</string>
+    <string name="quizz_degree">quizz degree%</string>
+    <string name="calculate_your_grades">calculate your grades</string>
+    <string name="quizz">quizz %</string>
+    <string name="homework">homework %</string>
+    <string name="midterm">midterm %</string>
+    <string name="finals">finals %</string>
+    <string name="reset">reset</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+</resources>
